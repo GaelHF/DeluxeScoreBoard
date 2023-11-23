@@ -1,4 +1,4 @@
-![Logo](https://www.spigotmc.org/data/resource_icons/113/113497.jpg?1699771325)
+![Logo](https://www.spigotmc.org/data/resource_icons/113/113684.jpg?1700755304)
 # Deluxe Scoreboard 📄
 
 Minecraft Spigot Plugin, 1.8+
