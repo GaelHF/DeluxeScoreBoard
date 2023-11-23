@@ -1,0 +1,15 @@
+name: DeluxeScoreBoard
+version: 1.0.0
+author: VAXS
+description: The best plugin for your scoreboard (/dsb)
+main: ca.vaxs.scoreboard.Main
+dependencies:
+  server:
+    PlaceholderAPI:
+      load: BEFORE
+      required: true
+
+commands:
+  dsb:
+    description: This is to manage your scoreboard plugin
+    permission: dsb.use

@@ -1,2 +1,2 @@
 # DeluxeScoreBoard
-The best plugin for your scoreboard
+ The best scoreboard manager plugin !

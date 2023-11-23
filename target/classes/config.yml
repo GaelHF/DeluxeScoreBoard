@@ -1,0 +1,14 @@
+#Plugin by: VAXS
+
+#Compatible with PlaceHolders
+#PlaceHolderAPI: https://www.spigotmc.org/resources/placeholderapi.6245/
+
+
+prefix: "&7[&dDeluxe Scoreborad&7]&r"
+
+scoreboard:
+  enable: true
+  title: "Deluxe Scoreboard"
+  lines:
+    - "&ePlayers online"
+    - "&b(%server_online%/%server_max_players%)"
